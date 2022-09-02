@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chaehyun and I analyze data!
+- 👀 I’m interested in games, movies, music, water sports and a lot more!
+- 🌱 I’m currently majoring in Applied Data Science in Sungkyunkwan University.
+- 💞️ I’m looking to collaborate on various data analysis projects.
+- 📫 Feel free to reach me via jerr1201@g.skku.edu 💌
